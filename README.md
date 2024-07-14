@@ -1,6 +1,6 @@
 #     Airline Passenger Satisfaction Predict Model
 
-![App.mp4]
+![](App.gif)
 Traveling by plane has decreased during the covid-19 outbreak. But in 2023 the number of journeys increased again. Airlines for America (AI4) interviewed 3019 adult passengers. The research wanted to understand what is important for passengers to enjoy traveling on an airline.
 
 The results were that price is the most important thing when someone wants to take a plane. This was followed by the absence of flight stops and minor arrival/departure delays.
